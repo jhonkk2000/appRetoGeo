@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppReto</string>
+    <string name="sign_in">Iniciar Sesión</string>
+    <string name="hint_email">Correo electronico</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="need_enable_permissions">Necesitas otorgar los permisos de ubicación para continuar</string>
+    <string name="enable">Habilitar permisos</string>
+</resources>
